@@ -2,5 +2,12 @@
   "posts": [
     { "name": "Saman", "surname": "pannu", "email":"saman@gmail.com", "mobile":"123456789","grade":"9","gender":"female", "age": 20 },
     { "name": "Sa", "surname": "pannu", "email":"sa@gmail.com", "mobile":"913456789","grade":"7","gender":"female", "age": 18 },
-  ]
-}
+  ],
+    "comments": [
+      { "id": 1, "body": "some comment", "postId": 1 },
+      { "id": 2, "body": "some comment", "postId": 1 }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
